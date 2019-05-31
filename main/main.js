@@ -2,4 +2,5 @@
 module.exports = function main(a,b) {
 	var t=a%b;
 	console.log(t);
+	return t;
 };
